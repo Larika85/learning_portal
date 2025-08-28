@@ -81,11 +81,3 @@ The app will open in your browser (usually at `http://localhost:8501`).
   ```  
 
 ---
-
-## 🤝 Contributing  
-Pull requests are welcome! Feel free to fork the repo and open issues for bugs/features.  
-
----
-
-## 📜 License  
-This project is licensed under the MIT License.  
