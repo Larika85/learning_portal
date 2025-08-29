@@ -16,8 +16,8 @@ An interactive web app built with **Streamlit** and **Gemini API (via LangChain)
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Larika85/learning_portal.git
+cd learning portal
 ```
 
 ### 2. Create Virtual Environment (Recommended)  
